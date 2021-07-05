@@ -1,6 +1,9 @@
-<<<<<<< HEAD
+
 four q
 =======
 four s
->>>>>>> main
+
 sdfg
+=======
+four q 2
+
